@@ -2,4 +2,4 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the mummy likes to eat cookies!
 Venus could be a great base for reaching mars
-this line only in local
+Removed both changes and merged
